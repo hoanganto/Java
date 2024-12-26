@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/views/product/index.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/views/product/_navigation.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/views/product/_dlgSearch.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/src/java/db/AccountFacade.java</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/src/java/controllers/AccountController.java</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/views/cart/index.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/layouts/main.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/images/logo.jpg</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/layouts/_header.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/css/site.css</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/layouts/_dlgLogin.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/index.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/web/WEB-INF/views/product/_dlgSort.jsp</file>
+            <file>file:/C:/Users/Workhard/Desktop/petstore/src/java/db/Account.java</file>
+        </group>
+    </open-files>
+</project-private>
